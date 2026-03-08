@@ -24,17 +24,20 @@ Author - MUSKAN SHAH(gutpa).
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Muskan-076/DSA-repository/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Muskan-076/DSA-repository/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -44,6 +47,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Muskan-076/DSA-repository/tree/main/0207-course-schedule/) | Medium |
+| [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Muskan-076/DSA-repository/tree/main/0994-rotting-oranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
