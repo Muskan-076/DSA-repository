@@ -29,6 +29,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0994-rotting-oranges](https://github.com/Muskan-076/DSA-repository/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,13 +98,23 @@ Author - MUSKAN SHAH(gutpa).
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Muskan-076/DSA-repository/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Muskan-076/DSA-repository/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Muskan-076/DSA-repository/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 <!---LeetCode Topics End-->
