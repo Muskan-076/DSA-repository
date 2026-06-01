@@ -45,6 +45,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1929-concatenation-of-array](https://github.com/Muskan-076/DSA-repository/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Muskan-076/DSA-repository/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-076/DSA-repository/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Muskan-076/DSA-repository/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3161-block-placement-queries](https://github.com/Muskan-076/DSA-repository/tree/main/3161-block-placement-queries/) | Hard |
@@ -145,6 +146,7 @@ Author - MUSKAN SHAH(gutpa).
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Muskan-076/DSA-repository/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Muskan-076/DSA-repository/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-076/DSA-repository/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Muskan-076/DSA-repository/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
@@ -176,6 +178,7 @@ Author - MUSKAN SHAH(gutpa).
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Muskan-076/DSA-repository/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Muskan-076/DSA-repository/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-076/DSA-repository/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Muskan-076/DSA-repository/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
