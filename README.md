@@ -53,6 +53,7 @@ Author - MUSKAN SHAH(gutpa).
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Muskan-076/DSA-repository/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Muskan-076/DSA-repository/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muskan-076/DSA-repository/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Muskan-076/DSA-repository/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ Author - MUSKAN SHAH(gutpa).
 | [3161-block-placement-queries](https://github.com/Muskan-076/DSA-repository/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Muskan-076/DSA-repository/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muskan-076/DSA-repository/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ Author - MUSKAN SHAH(gutpa).
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-076/DSA-repository/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Muskan-076/DSA-repository/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muskan-076/DSA-repository/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +183,7 @@ Author - MUSKAN SHAH(gutpa).
 | [2126-destroying-asteroids](https://github.com/Muskan-076/DSA-repository/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-076/DSA-repository/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Muskan-076/DSA-repository/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muskan-076/DSA-repository/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +191,7 @@ Author - MUSKAN SHAH(gutpa).
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muskan-076/DSA-repository/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Muskan-076/DSA-repository/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
