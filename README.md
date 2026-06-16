@@ -19,6 +19,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Muskan-076/DSA-repository/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Muskan-076/DSA-repository/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muskan-076/DSA-repository/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Muskan-076/DSA-repository/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
