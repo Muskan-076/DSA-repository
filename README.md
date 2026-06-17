@@ -20,6 +20,7 @@ Author - MUSKAN SHAH(gutpa).
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Muskan-076/DSA-repository/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1929-concatenation-of-array](https://github.com/Muskan-076/DSA-repository/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muskan-076/DSA-repository/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Muskan-076/DSA-repository/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
