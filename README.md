@@ -121,6 +121,7 @@ Author - MUSKAN SHAH(gutpa).
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskan-076/DSA-repository/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0076-minimum-window-substring/) | Hard |
+| [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Muskan-076/DSA-repository/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -236,12 +237,14 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Muskan-076/DSA-repository/tree/main/0002-add-two-numbers/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Muskan-076/DSA-repository/tree/main/0042-trapping-rain-water/) | Hard |
+| [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muskan-076/DSA-repository/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muskan-076/DSA-repository/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
