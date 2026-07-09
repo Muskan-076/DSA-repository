@@ -46,6 +46,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0045-jump-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Muskan-076/DSA-repository/tree/main/0055-jump-game/) | Medium |
 | [0130-surrounded-regions](https://github.com/Muskan-076/DSA-repository/tree/main/0130-surrounded-regions/) | Medium |
+| [0135-candy](https://github.com/Muskan-076/DSA-repository/tree/main/0135-candy/) | Hard |
 | [0198-house-robber](https://github.com/Muskan-076/DSA-repository/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0213-house-robber-ii/) | Medium |
 | [0275-h-index-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0275-h-index-ii/) | Medium |
@@ -220,6 +221,7 @@ Author - MUSKAN SHAH(gutpa).
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Muskan-076/DSA-repository/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/Muskan-076/DSA-repository/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/Muskan-076/DSA-repository/tree/main/0455-assign-cookies/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Muskan-076/DSA-repository/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Muskan-076/DSA-repository/tree/main/2126-destroying-asteroids/) | Medium |
