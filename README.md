@@ -43,6 +43,7 @@ Author - MUSKAN SHAH(gutpa).
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Muskan-076/DSA-repository/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Muskan-076/DSA-repository/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Muskan-076/DSA-repository/tree/main/0055-jump-game/) | Medium |
 | [0130-surrounded-regions](https://github.com/Muskan-076/DSA-repository/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/Muskan-076/DSA-repository/tree/main/0198-house-robber/) | Medium |
@@ -103,6 +104,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Muskan-076/DSA-repository/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Muskan-076/DSA-repository/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Muskan-076/DSA-repository/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Muskan-076/DSA-repository/tree/main/0198-house-robber/) | Medium |
@@ -211,6 +213,7 @@ Author - MUSKAN SHAH(gutpa).
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Muskan-076/DSA-repository/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Muskan-076/DSA-repository/tree/main/0455-assign-cookies/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Muskan-076/DSA-repository/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
