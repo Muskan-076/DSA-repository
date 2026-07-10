@@ -47,6 +47,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0055-jump-game](https://github.com/Muskan-076/DSA-repository/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Muskan-076/DSA-repository/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Muskan-076/DSA-repository/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Muskan-076/DSA-repository/tree/main/0135-candy/) | Hard |
 | [0198-house-robber](https://github.com/Muskan-076/DSA-repository/tree/main/0198-house-robber/) | Medium |
@@ -92,6 +93,7 @@ Author - MUSKAN SHAH(gutpa).
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Muskan-076/DSA-repository/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Muskan-076/DSA-repository/tree/main/0994-rotting-oranges/) | Medium |
@@ -113,6 +115,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0045-jump-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Muskan-076/DSA-repository/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Muskan-076/DSA-repository/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Muskan-076/DSA-repository/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Muskan-076/DSA-repository/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0213-house-robber-ii/) | Medium |
