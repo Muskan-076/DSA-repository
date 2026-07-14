@@ -84,6 +84,7 @@ Author - MUSKAN SHAH(gutpa).
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Muskan-076/DSA-repository/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Muskan-076/DSA-repository/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muskan-076/DSA-repository/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -134,6 +135,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Muskan-076/DSA-repository/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Muskan-076/DSA-repository/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Muskan-076/DSA-repository/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -271,6 +273,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1622-fancy-sequence](https://github.com/Muskan-076/DSA-repository/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Muskan-076/DSA-repository/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Muskan-076/DSA-repository/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muskan-076/DSA-repository/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -377,4 +380,8 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Muskan-076/DSA-repository/tree/main/0062-unique-paths/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Muskan-076/DSA-repository/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
