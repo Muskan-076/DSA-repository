@@ -34,6 +34,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Muskan-076/DSA-repository/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Muskan-076/DSA-repository/tree/main/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Muskan-076/DSA-repository/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muskan-076/DSA-repository/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -62,6 +63,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0485-max-consecutive-ones](https://github.com/Muskan-076/DSA-repository/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Muskan-076/DSA-repository/tree/main/0994-rotting-oranges/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Muskan-076/DSA-repository/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Muskan-076/DSA-repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -105,6 +107,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0130-surrounded-regions](https://github.com/Muskan-076/DSA-repository/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Muskan-076/DSA-repository/tree/main/0994-rotting-oranges/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Muskan-076/DSA-repository/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Muskan-076/DSA-repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
