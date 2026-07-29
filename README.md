@@ -145,6 +145,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0416-partition-equal-subset-sum](https://github.com/Muskan-076/DSA-repository/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Muskan-076/DSA-repository/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Muskan-076/DSA-repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -170,6 +171,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0207-course-schedule](https://github.com/Muskan-076/DSA-repository/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/Muskan-076/DSA-repository/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Muskan-076/DSA-repository/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Muskan-076/DSA-repository/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/Muskan-076/DSA-repository/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -201,6 +203,7 @@ Author - MUSKAN SHAH(gutpa).
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Muskan-076/DSA-repository/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Muskan-076/DSA-repository/tree/main/0207-course-schedule/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Muskan-076/DSA-repository/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Muskan-076/DSA-repository/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muskan-076/DSA-repository/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muskan-076/DSA-repository/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -209,6 +212,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Muskan-076/DSA-repository/tree/main/0207-course-schedule/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Muskan-076/DSA-repository/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Muskan-076/DSA-repository/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muskan-076/DSA-repository/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -309,6 +313,7 @@ Author - MUSKAN SHAH(gutpa).
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Muskan-076/DSA-repository/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -409,6 +414,7 @@ Author - MUSKAN SHAH(gutpa).
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Muskan-076/DSA-repository/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Muskan-076/DSA-repository/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Combinatorics
