@@ -150,6 +150,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1301-number-of-paths-with-max-score](https://github.com/Muskan-076/DSA-repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Muskan-076/DSA-repository/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Muskan-076/DSA-repository/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Muskan-076/DSA-repository/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -215,6 +216,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0207-course-schedule](https://github.com/Muskan-076/DSA-repository/tree/main/0207-course-schedule/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Muskan-076/DSA-repository/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Muskan-076/DSA-repository/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Muskan-076/DSA-repository/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muskan-076/DSA-repository/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muskan-076/DSA-repository/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -226,6 +228,7 @@ Author - MUSKAN SHAH(gutpa).
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Muskan-076/DSA-repository/tree/main/0207-course-schedule/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Muskan-076/DSA-repository/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Muskan-076/DSA-repository/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Muskan-076/DSA-repository/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -418,6 +421,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Muskan-076/DSA-repository/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Muskan-076/DSA-repository/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Muskan-076/DSA-repository/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Combinatorics
