@@ -20,6 +20,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Muskan-076/DSA-repository/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Muskan-076/DSA-repository/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -191,6 +192,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Muskan-076/DSA-repository/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -285,6 +287,7 @@ Author - MUSKAN SHAH(gutpa).
 | [2126-destroying-asteroids](https://github.com/Muskan-076/DSA-repository/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-076/DSA-repository/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Muskan-076/DSA-repository/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Muskan-076/DSA-repository/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -351,6 +354,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Muskan-076/DSA-repository/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Muskan-076/DSA-repository/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-076/DSA-repository/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Muskan-076/DSA-repository/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Muskan-076/DSA-repository/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -440,6 +444,7 @@ Author - MUSKAN SHAH(gutpa).
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Muskan-076/DSA-repository/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
