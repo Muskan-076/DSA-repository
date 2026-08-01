@@ -35,6 +35,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0002-add-two-numbers](https://github.com/Muskan-076/DSA-repository/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Muskan-076/DSA-repository/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0206-reverse-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/Muskan-076/DSA-repository/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0435-non-overlapping-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Muskan-076/DSA-repository/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Muskan-076/DSA-repository/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/Muskan-076/DSA-repository/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-076/DSA-repository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0994-rotting-oranges](https://github.com/Muskan-076/DSA-repository/tree/main/0994-rotting-oranges/) | Medium |
@@ -146,6 +148,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0322-coin-change](https://github.com/Muskan-076/DSA-repository/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Muskan-076/DSA-repository/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0486-predict-the-winner](https://github.com/Muskan-076/DSA-repository/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Muskan-076/DSA-repository/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Muskan-076/DSA-repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -314,6 +317,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0062-unique-paths](https://github.com/Muskan-076/DSA-repository/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Muskan-076/DSA-repository/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/Muskan-076/DSA-repository/tree/main/0089-gray-code/) | Medium |
+| [0486-predict-the-winner](https://github.com/Muskan-076/DSA-repository/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-076/DSA-repository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1622-fancy-sequence](https://github.com/Muskan-076/DSA-repository/tree/main/1622-fancy-sequence/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Muskan-076/DSA-repository/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -455,4 +459,8 @@ Author - MUSKAN SHAH(gutpa).
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Muskan-076/DSA-repository/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Muskan-076/DSA-repository/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
