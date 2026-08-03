@@ -58,6 +58,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0057-insert-interval](https://github.com/Muskan-076/DSA-repository/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Muskan-076/DSA-repository/tree/main/0064-minimum-path-sum/) | Medium |
+| [0075-sort-colors](https://github.com/Muskan-076/DSA-repository/tree/main/0075-sort-colors/) | Medium |
 | [0130-surrounded-regions](https://github.com/Muskan-076/DSA-repository/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Muskan-076/DSA-repository/tree/main/0135-candy/) | Hard |
 | [0198-house-robber](https://github.com/Muskan-076/DSA-repository/tree/main/0198-house-robber/) | Medium |
@@ -363,6 +364,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Muskan-076/DSA-repository/tree/main/0075-sort-colors/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Muskan-076/DSA-repository/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-076/DSA-repository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -390,6 +392,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Muskan-076/DSA-repository/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/Muskan-076/DSA-repository/tree/main/0075-sort-colors/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Muskan-076/DSA-repository/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -479,4 +482,12 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Muskan-076/DSA-repository/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Muskan-076/DSA-repository/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
