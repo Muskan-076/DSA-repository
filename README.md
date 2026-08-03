@@ -78,6 +78,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1288-remove-covered-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Muskan-076/DSA-repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Muskan-076/DSA-repository/tree/main/1470-shuffle-the-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -155,6 +156,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0877-stone-game](https://github.com/Muskan-076/DSA-repository/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Muskan-076/DSA-repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Muskan-076/DSA-repository/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Muskan-076/DSA-repository/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -322,6 +324,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0486-predict-the-winner](https://github.com/Muskan-076/DSA-repository/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-076/DSA-repository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Muskan-076/DSA-repository/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
 | [1622-fancy-sequence](https://github.com/Muskan-076/DSA-repository/tree/main/1622-fancy-sequence/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Muskan-076/DSA-repository/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Muskan-076/DSA-repository/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -467,4 +470,13 @@ Author - MUSKAN SHAH(gutpa).
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Muskan-076/DSA-repository/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Muskan-076/DSA-repository/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
