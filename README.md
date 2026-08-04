@@ -40,6 +40,7 @@ Author - MUSKAN SHAH(gutpa).
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Muskan-076/DSA-repository/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Muskan-076/DSA-repository/tree/main/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -57,6 +58,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0045-jump-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Muskan-076/DSA-repository/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Muskan-076/DSA-repository/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Muskan-076/DSA-repository/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Muskan-076/DSA-repository/tree/main/0057-insert-interval/) | Medium |
@@ -127,6 +129,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Muskan-076/DSA-repository/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Muskan-076/DSA-repository/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Muskan-076/DSA-repository/tree/main/0073-set-matrix-zeroes/) | Medium |
