@@ -66,6 +66,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0064-minimum-path-sum](https://github.com/Muskan-076/DSA-repository/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Muskan-076/DSA-repository/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Muskan-076/DSA-repository/tree/main/0075-sort-colors/) | Medium |
+| [0118-pascals-triangle](https://github.com/Muskan-076/DSA-repository/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskan-076/DSA-repository/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/Muskan-076/DSA-repository/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Muskan-076/DSA-repository/tree/main/0135-candy/) | Hard |
@@ -160,6 +161,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0063-unique-paths-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Muskan-076/DSA-repository/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Muskan-076/DSA-repository/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/Muskan-076/DSA-repository/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskan-076/DSA-repository/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Muskan-076/DSA-repository/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0213-house-robber-ii/) | Medium |
