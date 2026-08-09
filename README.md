@@ -56,6 +56,7 @@ Author - MUSKAN SHAH(gutpa).
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Muskan-076/DSA-repository/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/Muskan-076/DSA-repository/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Muskan-076/DSA-repository/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Muskan-076/DSA-repository/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Muskan-076/DSA-repository/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0045-jump-game-ii/) | Medium |
@@ -402,6 +403,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Muskan-076/DSA-repository/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Muskan-076/DSA-repository/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Muskan-076/DSA-repository/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0229-majority-element-ii/) | Medium |
@@ -433,6 +435,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Muskan-076/DSA-repository/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Muskan-076/DSA-repository/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Muskan-076/DSA-repository/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Muskan-076/DSA-repository/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Muskan-076/DSA-repository/tree/main/0075-sort-colors/) | Medium |
