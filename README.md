@@ -23,6 +23,7 @@ Author - MUSKAN SHAH(gutpa).
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Muskan-076/DSA-repository/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Muskan-076/DSA-repository/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Muskan-076/DSA-repository/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -212,6 +213,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0076-minimum-window-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0076-minimum-window-substring/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muskan-076/DSA-repository/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Muskan-076/DSA-repository/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +248,7 @@ Author - MUSKAN SHAH(gutpa).
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Muskan-076/DSA-repository/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Muskan-076/DSA-repository/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muskan-076/DSA-repository/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
