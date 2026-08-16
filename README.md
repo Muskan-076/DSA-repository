@@ -194,6 +194,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1140-stone-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Muskan-076/DSA-repository/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Muskan-076/DSA-repository/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Muskan-076/DSA-repository/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Muskan-076/DSA-repository/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -272,6 +273,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0802-find-eventual-safe-states](https://github.com/Muskan-076/DSA-repository/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-076/DSA-repository/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Muskan-076/DSA-repository/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Muskan-076/DSA-repository/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muskan-076/DSA-repository/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Muskan-076/DSA-repository/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muskan-076/DSA-repository/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -525,6 +527,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Muskan-076/DSA-repository/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Muskan-076/DSA-repository/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muskan-076/DSA-repository/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -532,6 +535,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Muskan-076/DSA-repository/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Muskan-076/DSA-repository/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -617,4 +621,12 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Muskan-076/DSA-repository/tree/main/0493-reverse-pairs/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Muskan-076/DSA-repository/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Muskan-076/DSA-repository/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
