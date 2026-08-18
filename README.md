@@ -102,6 +102,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Muskan-076/DSA-repository/tree/main/1470-shuffle-the-array/) | Easy |
+| [1563-stone-game-v](https://github.com/Muskan-076/DSA-repository/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Muskan-076/DSA-repository/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -198,6 +199,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Muskan-076/DSA-repository/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Muskan-076/DSA-repository/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Muskan-076/DSA-repository/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Muskan-076/DSA-repository/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -393,6 +395,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1140-stone-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Muskan-076/DSA-repository/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Muskan-076/DSA-repository/tree/main/1563-stone-game-v/) | Hard |
 | [1622-fancy-sequence](https://github.com/Muskan-076/DSA-repository/tree/main/1622-fancy-sequence/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Muskan-076/DSA-repository/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Muskan-076/DSA-repository/tree/main/2029-stone-game-ix/) | Medium |
@@ -574,6 +577,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1140-stone-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Muskan-076/DSA-repository/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Muskan-076/DSA-repository/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Muskan-076/DSA-repository/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
