@@ -9,6 +9,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskan-076/DSA-repository/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Muskan-076/DSA-repository/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/Muskan-076/DSA-repository/tree/main/0127-word-ladder/) | Hard |
@@ -63,6 +64,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Muskan-076/DSA-repository/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Muskan-076/DSA-repository/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Muskan-076/DSA-repository/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Muskan-076/DSA-repository/tree/main/0031-next-permutation/) | Medium |
@@ -515,6 +517,7 @@ Author - MUSKAN SHAH(gutpa).
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/0014-longest-common-prefix/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
