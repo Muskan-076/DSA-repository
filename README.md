@@ -13,6 +13,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0125-valid-palindrome](https://github.com/Muskan-076/DSA-repository/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/Muskan-076/DSA-repository/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Muskan-076/DSA-repository/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Muskan-076/DSA-repository/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Muskan-076/DSA-repository/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Muskan-076/DSA-repository/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -224,6 +225,7 @@ Author - MUSKAN SHAH(gutpa).
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskan-076/DSA-repository/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0076-minimum-window-substring/) | Hard |
+| [0567-permutation-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/0567-permutation-in-string/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muskan-076/DSA-repository/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Muskan-076/DSA-repository/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -253,6 +255,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0127-word-ladder](https://github.com/Muskan-076/DSA-repository/tree/main/0127-word-ladder/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0229-majority-element-ii/) | Medium |
+| [0567-permutation-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/0567-permutation-in-string/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-076/DSA-repository/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-076/DSA-repository/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -498,6 +501,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Muskan-076/DSA-repository/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0455-assign-cookies](https://github.com/Muskan-076/DSA-repository/tree/main/0455-assign-cookies/) | Easy |
+| [0567-permutation-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Muskan-076/DSA-repository/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muskan-076/DSA-repository/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
