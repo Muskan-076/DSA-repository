@@ -431,6 +431,7 @@ Author - MUSKAN SHAH(gutpa).
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muskan-076/DSA-repository/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Muskan-076/DSA-repository/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Muskan-076/DSA-repository/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
