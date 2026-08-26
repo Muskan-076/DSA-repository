@@ -27,6 +27,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1927-sum-game](https://github.com/Muskan-076/DSA-repository/tree/main/1927-sum-game/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Muskan-076/DSA-repository/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Muskan-076/DSA-repository/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Muskan-076/DSA-repository/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -234,6 +235,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0076-minimum-window-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0076-minimum-window-substring/) | Hard |
 | [0567-permutation-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/0567-permutation-in-string/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Muskan-076/DSA-repository/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muskan-076/DSA-repository/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Muskan-076/DSA-repository/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Breadth-First Search
