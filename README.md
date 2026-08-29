@@ -14,6 +14,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0125-valid-palindrome](https://github.com/Muskan-076/DSA-repository/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/Muskan-076/DSA-repository/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Muskan-076/DSA-repository/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Muskan-076/DSA-repository/tree/main/0205-isomorphic-strings/) | Easy |
 | [0443-string-compression](https://github.com/Muskan-076/DSA-repository/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Muskan-076/DSA-repository/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -266,6 +267,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0076-minimum-window-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Muskan-076/DSA-repository/tree/main/0127-word-ladder/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Muskan-076/DSA-repository/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0229-majority-element-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/0567-permutation-in-string/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-076/DSA-repository/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
