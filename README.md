@@ -9,6 +9,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskan-076/DSA-repository/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Muskan-076/DSA-repository/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Muskan-076/DSA-repository/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/0014-longest-common-prefix/) | Easy |
@@ -199,6 +200,7 @@ Author - MUSKAN SHAH(gutpa).
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Muskan-076/DSA-repository/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Muskan-076/DSA-repository/tree/main/0053-maximum-subarray/) | Medium |
@@ -528,6 +530,7 @@ Author - MUSKAN SHAH(gutpa).
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Muskan-076/DSA-repository/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Muskan-076/DSA-repository/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Muskan-076/DSA-repository/tree/main/0031-next-permutation/) | Medium |
@@ -719,4 +722,8 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
