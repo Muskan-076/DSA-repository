@@ -9,6 +9,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskan-076/DSA-repository/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/Muskan-076/DSA-repository/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Muskan-076/DSA-repository/tree/main/0125-valid-palindrome/) | Easy |
@@ -267,6 +268,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskan-076/DSA-repository/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/Muskan-076/DSA-repository/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Muskan-076/DSA-repository/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Muskan-076/DSA-repository/tree/main/0127-word-ladder/) | Hard |
@@ -427,6 +429,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Muskan-076/DSA-repository/tree/main/0002-add-two-numbers/) | Medium |
+| [0013-roman-to-integer](https://github.com/Muskan-076/DSA-repository/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Muskan-076/DSA-repository/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Muskan-076/DSA-repository/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Muskan-076/DSA-repository/tree/main/0070-climbing-stairs/) | Easy |
