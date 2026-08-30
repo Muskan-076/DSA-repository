@@ -528,6 +528,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Muskan-076/DSA-repository/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Muskan-076/DSA-repository/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Muskan-076/DSA-repository/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Muskan-076/DSA-repository/tree/main/0141-linked-list-cycle/) | Easy |
@@ -542,6 +543,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0005-longest-palindromic-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Muskan-076/DSA-repository/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Muskan-076/DSA-repository/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Muskan-076/DSA-repository/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/Muskan-076/DSA-repository/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Muskan-076/DSA-repository/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Muskan-076/DSA-repository/tree/main/0075-sort-colors/) | Medium |
