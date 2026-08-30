@@ -277,6 +277,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0073-set-matrix-zeroes](https://github.com/Muskan-076/DSA-repository/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Muskan-076/DSA-repository/tree/main/0127-word-ladder/) | Hard |
+| [0141-linked-list-cycle](https://github.com/Muskan-076/DSA-repository/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Muskan-076/DSA-repository/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0229-majority-element-ii/) | Medium |
@@ -528,6 +529,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0002-add-two-numbers](https://github.com/Muskan-076/DSA-repository/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Muskan-076/DSA-repository/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Muskan-076/DSA-repository/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -542,6 +544,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0075-sort-colors](https://github.com/Muskan-076/DSA-repository/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Muskan-076/DSA-repository/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Muskan-076/DSA-repository/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Muskan-076/DSA-repository/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Muskan-076/DSA-repository/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Muskan-076/DSA-repository/tree/main/0443-string-compression/) | Medium |
@@ -731,4 +734,8 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Muskan-076/DSA-repository/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
