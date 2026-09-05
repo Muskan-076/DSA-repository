@@ -178,6 +178,7 @@ Author - MUSKAN SHAH(gutpa).
 | [3875-construct-uniform-parity-array-i](https://github.com/Muskan-076/DSA-repository/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Muskan-076/DSA-repository/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +380,7 @@ Author - MUSKAN SHAH(gutpa).
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Muskan-076/DSA-repository/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Muskan-076/DSA-repository/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
