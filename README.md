@@ -291,6 +291,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0127-word-ladder](https://github.com/Muskan-076/DSA-repository/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Muskan-076/DSA-repository/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muskan-076/DSA-repository/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Muskan-076/DSA-repository/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Muskan-076/DSA-repository/tree/main/0242-valid-anagram/) | Easy |
@@ -552,6 +553,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0141-linked-list-cycle](https://github.com/Muskan-076/DSA-repository/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Muskan-076/DSA-repository/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muskan-076/DSA-repository/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -574,6 +576,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0142-linked-list-cycle-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Muskan-076/DSA-repository/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Muskan-076/DSA-repository/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muskan-076/DSA-repository/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/Muskan-076/DSA-repository/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/Muskan-076/DSA-repository/tree/main/0455-assign-cookies/) | Easy |
