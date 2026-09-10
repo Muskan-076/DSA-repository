@@ -334,6 +334,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-076/DSA-repository/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Muskan-076/DSA-repository/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Muskan-076/DSA-repository/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-076/DSA-repository/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muskan-076/DSA-repository/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Muskan-076/DSA-repository/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muskan-076/DSA-repository/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -646,6 +647,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Muskan-076/DSA-repository/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Muskan-076/DSA-repository/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-076/DSA-repository/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muskan-076/DSA-repository/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
@@ -654,6 +656,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Muskan-076/DSA-repository/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Muskan-076/DSA-repository/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Muskan-076/DSA-repository/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
