@@ -470,6 +470,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0089-gray-code](https://github.com/Muskan-076/DSA-repository/tree/main/0089-gray-code/) | Medium |
 | [0486-predict-the-winner](https://github.com/Muskan-076/DSA-repository/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-076/DSA-repository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Muskan-076/DSA-repository/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Muskan-076/DSA-repository/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
@@ -790,4 +791,8 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Muskan-076/DSA-repository/tree/main/0141-linked-list-cycle/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Muskan-076/DSA-repository/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
