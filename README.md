@@ -247,6 +247,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1510-stone-game-iv](https://github.com/Muskan-076/DSA-repository/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Muskan-076/DSA-repository/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Muskan-076/DSA-repository/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Muskan-076/DSA-repository/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Muskan-076/DSA-repository/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -387,6 +388,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Muskan-076/DSA-repository/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Muskan-076/DSA-repository/tree/main/1872-stone-game-viii/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Muskan-076/DSA-repository/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Muskan-076/DSA-repository/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -479,6 +481,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Muskan-076/DSA-repository/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Muskan-076/DSA-repository/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Muskan-076/DSA-repository/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1622-fancy-sequence](https://github.com/Muskan-076/DSA-repository/tree/main/1622-fancy-sequence/) | Hard |
 | [1872-stone-game-viii](https://github.com/Muskan-076/DSA-repository/tree/main/1872-stone-game-viii/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -684,6 +687,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Muskan-076/DSA-repository/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Muskan-076/DSA-repository/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Muskan-076/DSA-repository/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Number Theory
