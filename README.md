@@ -130,6 +130,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Muskan-076/DSA-repository/tree/main/1470-shuffle-the-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Muskan-076/DSA-repository/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Muskan-076/DSA-repository/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -244,6 +245,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Muskan-076/DSA-repository/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Muskan-076/DSA-repository/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1406-stone-game-iii](https://github.com/Muskan-076/DSA-repository/tree/main/1406-stone-game-iii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Muskan-076/DSA-repository/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Muskan-076/DSA-repository/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Muskan-076/DSA-repository/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -268,6 +270,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskan-076/DSA-repository/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0076-minimum-window-substring/) | Hard |
 | [0567-permutation-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/0567-permutation-in-string/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Muskan-076/DSA-repository/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Muskan-076/DSA-repository/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Muskan-076/DSA-repository/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muskan-076/DSA-repository/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -309,6 +312,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-076/DSA-repository/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-076/DSA-repository/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Muskan-076/DSA-repository/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Muskan-076/DSA-repository/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Muskan-076/DSA-repository/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -418,6 +422,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0240-search-a-2d-matrix-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0275-h-index-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0275-h-index-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/Muskan-076/DSA-repository/tree/main/0493-reverse-pairs/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Muskan-076/DSA-repository/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Muskan-076/DSA-repository/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
