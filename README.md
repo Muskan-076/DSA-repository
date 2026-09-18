@@ -28,6 +28,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0940-distinct-subsequences-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Muskan-076/DSA-repository/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Muskan-076/DSA-repository/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Muskan-076/DSA-repository/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -313,6 +314,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-076/DSA-repository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Muskan-076/DSA-repository/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Muskan-076/DSA-repository/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Muskan-076/DSA-repository/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Muskan-076/DSA-repository/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -445,6 +447,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0455-assign-cookies](https://github.com/Muskan-076/DSA-repository/tree/main/0455-assign-cookies/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Muskan-076/DSA-repository/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-076/DSA-repository/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Muskan-076/DSA-repository/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Muskan-076/DSA-repository/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/Muskan-076/DSA-repository/tree/main/1927-sum-game/) | Medium |
@@ -554,6 +557,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1288-remove-covered-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Muskan-076/DSA-repository/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Muskan-076/DSA-repository/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Muskan-076/DSA-repository/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-076/DSA-repository/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
