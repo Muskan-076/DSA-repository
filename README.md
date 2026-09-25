@@ -27,6 +27,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0796-rotate-string](https://github.com/Muskan-076/DSA-repository/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Muskan-076/DSA-repository/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Muskan-076/DSA-repository/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Muskan-076/DSA-repository/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -294,6 +295,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0802-find-eventual-safe-states](https://github.com/Muskan-076/DSA-repository/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/Muskan-076/DSA-repository/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Muskan-076/DSA-repository/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muskan-076/DSA-repository/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -317,6 +319,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0451-sort-characters-by-frequency](https://github.com/Muskan-076/DSA-repository/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/0567-permutation-in-string/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Muskan-076/DSA-repository/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-076/DSA-repository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Muskan-076/DSA-repository/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -343,6 +346,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/Muskan-076/DSA-repository/tree/main/0089-gray-code/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Muskan-076/DSA-repository/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -568,6 +572,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0451-sort-characters-by-frequency](https://github.com/Muskan-076/DSA-repository/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Muskan-076/DSA-repository/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muskan-076/DSA-repository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Muskan-076/DSA-repository/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -672,6 +677,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Muskan-076/DSA-repository/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Muskan-076/DSA-repository/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
