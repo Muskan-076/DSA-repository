@@ -14,6 +14,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0013-roman-to-integer](https://github.com/Muskan-076/DSA-repository/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Muskan-076/DSA-repository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Muskan-076/DSA-repository/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Muskan-076/DSA-repository/tree/main/0125-valid-palindrome/) | Easy |
@@ -232,6 +233,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Muskan-076/DSA-repository/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Muskan-076/DSA-repository/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Muskan-076/DSA-repository/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Muskan-076/DSA-repository/tree/main/0053-maximum-subarray/) | Medium |
@@ -354,6 +356,7 @@ Author - MUSKAN SHAH(gutpa).
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/0022-generate-parentheses/) | Medium |
 | [0089-gray-code](https://github.com/Muskan-076/DSA-repository/tree/main/0089-gray-code/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Muskan-076/DSA-repository/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -832,6 +835,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Muskan-076/DSA-repository/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
