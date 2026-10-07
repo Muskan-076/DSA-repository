@@ -22,6 +22,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0151-reverse-words-in-a-string](https://github.com/Muskan-076/DSA-repository/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Muskan-076/DSA-repository/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Muskan-076/DSA-repository/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0443-string-compression](https://github.com/Muskan-076/DSA-repository/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Muskan-076/DSA-repository/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/Muskan-076/DSA-repository/tree/main/0567-permutation-in-string/) | Medium |
@@ -303,6 +304,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0127-word-ladder](https://github.com/Muskan-076/DSA-repository/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Muskan-076/DSA-repository/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Muskan-076/DSA-repository/tree/main/0207-course-schedule/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Muskan-076/DSA-repository/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Muskan-076/DSA-repository/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -362,6 +364,7 @@ Author - MUSKAN SHAH(gutpa).
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/0022-generate-parentheses/) | Medium |
 | [0089-gray-code](https://github.com/Muskan-076/DSA-repository/tree/main/0089-gray-code/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Muskan-076/DSA-repository/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Muskan-076/DSA-repository/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Muskan-076/DSA-repository/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
