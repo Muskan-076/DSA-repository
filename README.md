@@ -169,6 +169,7 @@ Author - MUSKAN SHAH(gutpa).
 | [2574-left-and-right-sum-differences](https://github.com/Muskan-076/DSA-repository/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Muskan-076/DSA-repository/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Muskan-076/DSA-repository/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Muskan-076/DSA-repository/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muskan-076/DSA-repository/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Muskan-076/DSA-repository/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -349,6 +350,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Muskan-076/DSA-repository/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Muskan-076/DSA-repository/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Muskan-076/DSA-repository/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muskan-076/DSA-repository/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Muskan-076/DSA-repository/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -445,6 +447,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0089-gray-code](https://github.com/Muskan-076/DSA-repository/tree/main/0089-gray-code/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Muskan-076/DSA-repository/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-076/DSA-repository/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Muskan-076/DSA-repository/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Muskan-076/DSA-repository/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Muskan-076/DSA-repository/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -497,6 +500,7 @@ Author - MUSKAN SHAH(gutpa).
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-076/DSA-repository/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Muskan-076/DSA-repository/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Muskan-076/DSA-repository/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Muskan-076/DSA-repository/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Muskan-076/DSA-repository/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Muskan-076/DSA-repository/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
