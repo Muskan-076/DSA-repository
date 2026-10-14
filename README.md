@@ -513,6 +513,7 @@ Author - MUSKAN SHAH(gutpa).
 | [3689-maximum-total-subarray-value-i](https://github.com/Muskan-076/DSA-repository/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Muskan-076/DSA-repository/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Muskan-076/DSA-repository/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -559,6 +560,7 @@ Author - MUSKAN SHAH(gutpa).
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Muskan-076/DSA-repository/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Muskan-076/DSA-repository/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Muskan-076/DSA-repository/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Muskan-076/DSA-repository/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Muskan-076/DSA-repository/tree/main/3870-count-commas-in-range/) | Easy |
