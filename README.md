@@ -88,6 +88,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0657-robot-return-to-origin](https://github.com/Muskan-076/DSA-repository/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Muskan-076/DSA-repository/tree/main/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Muskan-076/DSA-repository/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Muskan-076/DSA-repository/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1929-concatenation-of-array](https://github.com/Muskan-076/DSA-repository/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Muskan-076/DSA-repository/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muskan-076/DSA-repository/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -152,6 +153,7 @@ Author - MUSKAN SHAH(gutpa).
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Muskan-076/DSA-repository/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Muskan-076/DSA-repository/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Muskan-076/DSA-repository/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Muskan-076/DSA-repository/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Muskan-076/DSA-repository/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Muskan-076/DSA-repository/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -615,6 +617,7 @@ Author - MUSKAN SHAH(gutpa).
 | [0451-sort-characters-by-frequency](https://github.com/Muskan-076/DSA-repository/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Muskan-076/DSA-repository/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-076/DSA-repository/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Muskan-076/DSA-repository/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Muskan-076/DSA-repository/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muskan-076/DSA-repository/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -896,6 +899,7 @@ Author - MUSKAN SHAH(gutpa).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Muskan-076/DSA-repository/tree/main/0493-reverse-pairs/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Muskan-076/DSA-repository/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Muskan-076/DSA-repository/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
